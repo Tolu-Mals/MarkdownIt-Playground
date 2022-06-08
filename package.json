@@ -1,0 +1,17 @@
+{
+  "name": "markdown-it-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Tolulope Malomo",
+  "license": "MIT",
+  "dependencies": {
+    "markdown-it": "^13.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
